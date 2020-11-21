@@ -58,15 +58,16 @@ you can get kivy related version packages on the list,then, select what you want
 
 and finally, kivy 1.11.1 version and python3.7 version  will install to new environment => kivy 
 
+## how to use conda environment in VS studio editor
+
+creat a python format file like " main.py ", open the file, in VS studio  button will show you related python version, python3.8 or other version, click version, and then select you customize conda environment version like : python 3.7 or another
 
 
 
 
 
 
-conda activate
 
-You can also create the environment from a file like environment.yml, you can use use the conda env create -f command: conda env create -f environment.yml. The environment name will be the directory name.
 
 ## avoid conda to activate base environment
 
