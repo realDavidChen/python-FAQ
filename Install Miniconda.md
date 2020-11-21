@@ -28,3 +28,8 @@ in your /home/***/.bashrc
 source
 https://varhowto.com/install-miniconda-ubuntu-20-04/
 
+reference
+
+https://www.youtube.com/watch?v=23aQdrS58e0&t=767s
+
+
