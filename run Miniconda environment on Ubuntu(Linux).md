@@ -48,9 +48,9 @@ you will see the front world: (kivy) $ ... like this.
 
 (kivy)$ pip3 search kivy
 
-you can select what you want version. like:
+you can get kivy related version packages on the list,then, select what you want version. install the special version into 'kivy' project environment,like this:
 
-(kivy) pip3 install kivy==1.11.1
+(kivy)$ pip3 install kivy==1.11.1
 
 and finally, kivy 1.11.1 version and python3.7 version  will install to new environment => kivy 
 
