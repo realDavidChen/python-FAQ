@@ -42,6 +42,10 @@ into news create env
 
 $ conda activate kivy
 
+or 
+
+$ source.activate kivy
+
 you will see the front world: (kivy) $ ... like this.  
 
 ## then you into special environment, you can using pip3 install application like normal, but the application will run in the special environment. not on the global env.
