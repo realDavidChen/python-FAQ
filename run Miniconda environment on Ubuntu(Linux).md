@@ -1,4 +1,4 @@
-# How to Install Miniconda on Ubuntu 20.04
+# How to run Miniconda environment on Ubuntu 20.04
 
 acticle
 
