@@ -38,7 +38,7 @@ if __name__ == '__main__':
     EpicApp().run()
 ```
 
-Ubuntu18.04 20.04 环境下解决 kivy 中文显示问题
+## Ubuntu18.04 20.04 环境下解决 kivy 中文显示问题
 
 下载字体，并将字体复制到 main.py 文件同一目录下
 
